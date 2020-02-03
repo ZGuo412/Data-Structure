@@ -1,2 +1,2 @@
 # Data-Structure
-Projects for multi-processors; sort; hashmap
+Projects for multi-processors; implementing quick-sort; hashmap
